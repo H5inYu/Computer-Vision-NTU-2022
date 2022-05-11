@@ -1,0 +1,4 @@
+SNR of 0_median_filter_5x5_image = 15.995037363705576
+SNR of 1_median_filter_5x5_image = 12.91699817525344
+SNR of 2_median_filter_5x5_image = 15.78429712020351
+SNR of 3_median_filter_5x5_image = 16.36339393810594

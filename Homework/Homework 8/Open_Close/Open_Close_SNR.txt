@@ -1,0 +1,4 @@
+SNR of 0_opening_then_closing_image = 13.236698425312746
+SNR of 1_opening_then_closing_image = 11.194960463540424
+SNR of 2_opening_then_closing_image = -2.1353294102996276
+SNR of 3_opening_then_closing_image = 5.655628110458747

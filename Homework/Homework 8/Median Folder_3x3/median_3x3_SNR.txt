@@ -1,0 +1,4 @@
+SNR of 0_median_filter_3x3_image = 17.658162016581954
+SNR of 1_median_filter_3x3_image = 11.096368542868081
+SNR of 2_median_filter_3x3_image = 15.614849507428325
+SNR of 3_median_filter_3x3_image = 19.441714854948383
